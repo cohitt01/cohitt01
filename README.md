@@ -1,9 +1,9 @@
-# Hi 👋, I'm Debbie Johnson
+# Hi 👋, I'm Cody Hittle
 ## About Me
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
+- 🏦 I'm currently working for McDonalds while going to college
 
-- 📚 I’m studing to complete my Python certifications
+- 📚 I’m studing to gain my B.S. degree in Computer Science
 
 - 🤔 I use daily .java, .cpp, .py, .sql
 
