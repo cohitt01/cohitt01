@@ -5,25 +5,18 @@
 
 - 📚 I’m studing to gain my B.S. degree in Computer Science
 
-- 🤔 I use daily .java, .cpp, .py, .sql
+- 🤔 I use daily C++
 
 - 👨🏻‍💻 Love programming and resolving problems
 
-- 🧠 I like to learn something new
+- 🧠 I like to expanding my knowlage on skillful topics
 
-- 📫 How to reach me **dejohns2@wsc.edu**
+- 📫 How to reach me **cohitt01@wsc.edu**
 
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
+- 💬 Connect? Lets get social N/A
 
-
-I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
 
 ### Education
 
-- MSOM, IT Management, Wayne State College, 2016
-
-- B.A., Computer Information Systems/Web Analyst, Wayne State College, 2014
-
-- A.A., Northeast Community College, 2014
-
-- AAS, Computer Programming, Northeast Community College, 1984
+- West Point-Beemer Highschool - 2022
+- Wayne State College - Present
